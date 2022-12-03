@@ -38,14 +38,14 @@ export function History() {
                       <Status statusColor="green">Concluído</Status>
                     )}
                     {cycle.interruptedDate && (
-                      <Status statusColor="green">Interrompido</Status>
+                      <Status statusColor="red">Interrompido</Status>
                     )}
                     {!cycle.finishedDate && !cycle.interruptedDate && (
                       <Status statusColor="yellow">Em andamento</Status>
                     )}
                   </td>
                 </tr>
-              ) 
+              )
             })}
           </tbody>
         </table>
