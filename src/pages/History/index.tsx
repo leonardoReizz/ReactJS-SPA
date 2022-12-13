@@ -45,7 +45,7 @@ export function History() {
                     )}
                   </td>
                 </tr>
-              ) 
+              )
             })}
           </tbody>
         </table>
