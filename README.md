@@ -16,6 +16,9 @@ Linguagens, Frameworks e Bibliotecas utilizados: <br />
 &#160;&#160;&#160;-> <strong> Reducers </strong> <br/>
 &#160;&#160;&#160;-> <strong> immer </strong> <br/>
 
+
+![IgniteTimer](https://user-images.githubusercontent.com/76044304/207200904-f02a9a0a-157d-4f8f-b4db-6ba82cd99567.gif)
+
 ## Para Instalar o Projeto
 
 ```bash
